@@ -29,6 +29,6 @@ A simple RESTful API for managing blog posts, built with Node.js, Express, and M
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/blogging-api.git
-   cd blogging-api
+   git clone https://github.com/thisissushant/server.git
+   cd server
    ```
